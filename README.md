@@ -2,7 +2,7 @@
 
 *Statistics*/ *Mathematics* is the backbone of Data Science and serves as an important tool (accelerator) during your client engagements.
 
-This course covers the basics required to foray into Data Science and build Data-Driven products.
+This course covers (below) the basics required to foray into Data Science and build Data-Driven products.
 
 
 ***Math Concepts***
